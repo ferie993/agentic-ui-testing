@@ -1,0 +1,20 @@
+{
+  "uuid": "{{UUID}}",
+  "historyId": "{{HISTORY_ID}}",
+  "name": "{{SCENARIO_NAME}}",
+  "fullName": "{{FEATURE_NAME}}: {{SCENARIO_NAME}}",
+  "status": "{{STATUS}}",
+  "stage": "finished",
+  "description": "Execution of scenario: {{SCENARIO_NAME}}",
+  "steps": [],
+  "attachments": [],
+  "parameters": [],
+  "labels": [
+    {
+      "name": "framework",
+      "value": "gemini-cli-playwright"
+    }
+  ],
+  "start": 1600000000000,
+  "stop": 1600000000000
+}
